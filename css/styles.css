@@ -1,0 +1,15 @@
+.aboutme{
+  color:blue;
+  font-style: italic;
+  font-family: sans-serif;
+}
+.nextweek{
+  color:red;
+  font-style: oblique;
+  font-family: cursive;
+
+}
+.shrink{
+  width: 25%;
+  height: auto;
+}
